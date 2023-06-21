@@ -1,0 +1,3 @@
+#!/usr/bin/execlineb -P
+
+mono --debug /opt/sonarr/bin/Sonarr.exe --nobrowser --data=/container/data
